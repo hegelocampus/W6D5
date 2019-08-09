@@ -24,6 +24,7 @@ Array has a uniq method that removes duplicates from an array. It returns the un
 [1, 2, 1, 3, 3].uniq # => [1, 2, 3]
 
 Write your own version of this method called my_uniq; it should take in an Array and return a new array.
+
 Two sum
 
 Write a new Array#two_sum method that finds all pairs of positions where the elements at those positions sum to zero.
@@ -70,7 +71,8 @@ my_transpose([
 
 Stock Picker
 
-Write a method that takes an array of stock prices (prices on days 0, 1, ...), and outputs the most profitable pair of days on which to first buy the stock and then sell the stock. Remember, you can't sell stock before you buy it!
+Write a method that takes an array of stock prices (prices on days 0, 1, ...), and outputs the most profitable pair of days  on which to first buy the stock and then sell the stock. Remember, you can't sell stock before you buy it!
+
 Towers of Hanoi
 
 Write a Towers of Hanoi game.
