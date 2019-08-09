@@ -91,6 +91,8 @@ describe TowersofHanoi do
     end
 
     describe "#won?" do
+        # it "returns true when the game is won"
+        # it "returns false when the game is not won"
       context "when the right tower is [1, 2, 3]"
       
     end

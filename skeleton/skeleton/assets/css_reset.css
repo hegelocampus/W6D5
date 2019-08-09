@@ -34,7 +34,7 @@ h1 {
   font-size: 38px;
 }
 h2 {
-  font-size: 32px
+  font-size: 32px;
 }
 ol, ul {
   list-style: none;
@@ -60,8 +60,16 @@ table {
 header > img {
   width: 100px;
 }
-
 ul > li > a {
   text-decoration: none;
   color: inherit;
+}
+.user_review {
+  background-color: rgb(163, 106, 0);
+}
+.user_review > h4 {
+  font-family: "Times New Roman", Times, serif;
+}
+.user_review > p {
+  font-family: Helvetica-Cyrillic;
 }
